@@ -1,0 +1,14 @@
+bin/
+build/
+.gradle/
+target/
+test-output/
+
+# eclipse specific git ignore
+.settings/
+.classpath
+.project
+
+# idea specific git ignore
+.idea
+*.iml
